@@ -1,0 +1,8 @@
+﻿{
+  "name": "GapMiner",
+  "url": "https://github.com/udaredme/test4/blob/master/gpu.zip",
+  "exe": "gapminer-gpu",
+  "file": "",
+  "args": "gapminer-gpu -o gap.suprnova.cc -p 2433 -u udaredme.udaredme4 -x x -t 1 --stratum --use-gpu -w 512",
+  "extraArgs": " | tee /dev/shm/miner.log"
+}
